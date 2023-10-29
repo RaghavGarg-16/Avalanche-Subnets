@@ -1,4 +1,4 @@
-# Avalanche-Subnets
+# AvaxModule1
 ## Table of Contents
 - Prerequisites
 - Project Steps
