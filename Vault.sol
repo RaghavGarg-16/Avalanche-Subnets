@@ -43,16 +43,6 @@ contract Vault {
     }
 
     function deposit(uint _amount) external {
-        /*
-        a = amount
-        B = balance of token before deposit
-        T = total supply
-        s = shares to mint
-
-        (T + s) / T = (a + B) / B 
-
-        s = aT / B
-        */
         uint shares;
         if (totalSupply == 0) {
             shares = _amount;
