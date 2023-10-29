@@ -1,12 +1,12 @@
 # Avalanche-Subnets
-Table of Contents
-Prerequisites
-Project Steps
-Smart Contracts
-Usage
-Author
-License
-Prerequisites
+## Table of Contents
+- Prerequisites
+- Project Steps
+- Smart Contracts
+- Usage
+- Author
+- License
+## Prerequisites
 Before you begin, ensure you have the following tools and resources:
 
 Unix computer (MacOS or Linux) or WSL installed on Windows
