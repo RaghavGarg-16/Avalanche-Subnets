@@ -7,13 +7,12 @@
 - Author
 - License
 ## Prerequisites
-Before you begin, ensure you have the following tools and resources:
 
-Unix computer (MacOS or Linux) or WSL installed on Windows
-Remix online IDE
-Metamask wallet extension
-Web browser
-Project Steps
+- Unix computer (MacOS or Linux) or WSL installed on Windows
+- Remix online IDE
+- Metamask wallet extension
+- Web browser
+## Project Steps
 Set up your EVM subnet: To create a custom EVM subnet on the Avalanche network, follow the instructions provided in the guide and refer to the Avalanche documentation. This will allow you to deploy your smart contracts with low fees and create a custom token.
 
 Define your native currency: Create your own native currency to serve as the in-game currency for your DeFi Kingdom clone. This currency will be used for transactions, rewards, and various in-game activities.
